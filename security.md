@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Chrome Proxy Расширение](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/chrome-proxy-download-ru)
+[![Download Chrome Proxy Расширение](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/pJ45n3w4v2YyS4sTn)
 
 </div>
 
@@ -129,7 +129,7 @@
 
 <div align="center">
 
-[![Download Chrome Proxy Расширение](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/chrome-proxy-download-ru)
+[![Download Chrome Proxy Расширение](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/pJ45n3w4v2YyS4sTn)
 
 </div>
 
@@ -296,7 +296,7 @@
 
 <div align="center">
 
-[![Download Chrome Proxy Расширение](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/chrome-proxy-download-ru)
+[![Download Chrome Proxy Расширение](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/pJ45n3w4v2YyS4sTn)
 
 **Версия 4.3.0** — Бесплатное прокси расширение для Chrome. Май 2026 обновление. Ноль стоимости. Без платежей.
 
